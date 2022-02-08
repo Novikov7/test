@@ -1,0 +1,8 @@
+<resources>
+    <string name="no">Введите текст</string>
+    <string name="app_name">TestProject</string>
+    <string-array name="Выбери">
+        <item>Ежемесячный</item>
+        <item>Ежегодный</item>
+    </string-array>
+</resources>
